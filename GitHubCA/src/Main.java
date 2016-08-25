@@ -13,8 +13,13 @@ public class Main {
     
     public static void main(String[] args) {
         
-        Scanner leer = new Scanner (System.in();
-        int opcion;hjhgjghjghjghjgjghjg
+        Scanner leer = new Scanner (System.in);
+        int opcion;
+        int n1;
+        int n2;
+        int r;
+        
+        
     }
     }
     
