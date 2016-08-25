@@ -19,6 +19,15 @@ public class Main {
         int n2;
         int r;
         
+        System.out.println("eliga la operación que desea realizar");
+        System.out.println("1.Suma");
+        System.out.println("2.Resta");
+        System.out.println("3.Multiplicación");
+        System.out.println("4.División");
+        opcion = leer.nextInt();
+        
+        
+        
         
     }
     }
