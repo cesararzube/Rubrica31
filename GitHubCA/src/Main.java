@@ -26,8 +26,10 @@ public class Main {
         System.out.println("4.División");
         opcion = leer.nextInt();
         
-        
-        
+        System.out.println("Escriba el primer número");
+        n1 = leer.nexInt();
+        System.out.println("Escriba el segundo número");
+        n2 = leer.nexInt();
         
     }
     }
